@@ -1,2 +1,2 @@
 # youxi
-larave+swoole+vue+layabox
+laravel+swoole+vue+layabox
