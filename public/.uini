@@ -1,0 +1,1 @@
+open_basedir="D:\Project\youxi\;D:\Project\youxi\public\;D:\Web\UPUPW_NP7.0\Guard\;D:\Web\UPUPW_NP7.0\phpmyadmin\;D:\Web\UPUPW_NP7.0\temp\;C:\Windows\Temp\"
